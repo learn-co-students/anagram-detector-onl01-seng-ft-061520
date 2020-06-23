@@ -15,3 +15,8 @@ class Anagram
       end 
     end
     
+    arry 
+    
+  end
+  
+end
